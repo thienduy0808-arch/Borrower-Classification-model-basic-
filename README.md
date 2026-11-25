@@ -13,6 +13,7 @@ A borrower classification model (Default / Non-default) using 12 independent var
 - cb_person_default_on_file:	Historical default
 - cb_preson_cred_hist_length:	Credit history length
 
+Original Kaggle dataset: https://www.kaggle.com/datasets/laotse/credit-risk-dataset/data
 
 
 
